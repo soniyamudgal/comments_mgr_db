@@ -1,0 +1,15 @@
+{
+  "name": "comments-mgr-app-db",
+  "version": "1.0.0",
+  "description": "comments-mgr-app-db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "soniya mudgal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
