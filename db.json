@@ -5,11 +5,11 @@
 		"replies": [
 		  {
 			"reply": "Hi",
-			"time": "11:00 AM"
+			"time": ""
 		  }
 		],
 		"likeCount": 0,
-		"time": "11:06 AM",
+		"time": "",
 		"id": 1
 	  },
 	  {
@@ -17,7 +17,7 @@
 		"replies": [
 		],
 		"likeCount": 0,
-		"time": "11:06 AM",
+		"time": "",
 		"id": 2
 	  },
 	  {
@@ -25,11 +25,11 @@
 		"replies": [
 		  {
 			"reply": "Hi New",
-			"time": "11:00 AM"
+			"time": ""
 		  }
 		],
 		"likeCount": 0,
-		"time": "11:06 AM",
+		"time": "",
 		"id": 3
 	  },
 	  {
@@ -37,11 +37,11 @@
 		"replies": [
 		  {
 			"reply": "Hi User",
-			"time": "11:00 AM"
+			"time": ""
 		  }
 		],
 		"likeCount": 0,
-		"time": "11:06 AM",
+		"time": "",
 		"id": 4
 	  }
   ]
