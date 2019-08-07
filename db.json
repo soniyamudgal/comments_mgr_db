@@ -1,48 +1,16 @@
 {
   "comments": [
 	  {
+		"id": 1,
 		"comment": "Hello",
+		"time": "",
+		"like": 0,
 		"replies": [
 		  {
 			"reply": "Hi",
 			"time": ""
 		  }
-		],
-		"like": 0,
-		"time": "",
-		"id": 1
-	  },
-	  {
-		"comment": "Hi",
-		"replies": [
-		],
-		"like": 0,
-		"time": "",
-		"id": 2
-	  },
-	  {
-		"comment": "Hello New",
-		"replies": [
-		  {
-			"reply": "Hi New",
-			"time": ""
-		  }
-		],
-		"like": 0,
-		"time": "",
-		"id": 3
-	  },
-	  {
-		"comment": "Hello User",
-		"replies": [
-		  {
-			"reply": "Hi User",
-			"time": ""
-		  }
-		],
-		"like": 0,
-		"time": "",
-		"id": 4
+		]
 	  }
   ]
 }
