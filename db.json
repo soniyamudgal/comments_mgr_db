@@ -8,7 +8,7 @@
 			"time": ""
 		  }
 		],
-		"likeCount": 0,
+		"like": 0,
 		"time": "",
 		"id": 1
 	  },
@@ -16,7 +16,7 @@
 		"comment": "Hi",
 		"replies": [
 		],
-		"likeCount": 0,
+		"like": 0,
 		"time": "",
 		"id": 2
 	  },
@@ -28,7 +28,7 @@
 			"time": ""
 		  }
 		],
-		"likeCount": 0,
+		"like": 0,
 		"time": "",
 		"id": 3
 	  },
@@ -40,7 +40,7 @@
 			"time": ""
 		  }
 		],
-		"likeCount": 0,
+		"like": 0,
 		"time": "",
 		"id": 4
 	  }
