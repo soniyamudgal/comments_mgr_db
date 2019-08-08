@@ -4,7 +4,7 @@
 		"id": 1,
 		"comment": "Hello!! Welcome here..",
 		"time": 1565078400000,
-		"like": 0,
+		"like": 5,
 		"replies": [
 		  {
 			"reply": "Thank you",
@@ -16,7 +16,7 @@
 		"id": 2,
 		"comment": "Hi! Whats up???",
 		"time": 1565078574000,
-		"like": 0,
+		"like": 2,
 		"replies": [
 		  {
 			"reply": "Hola!!!!!",
@@ -32,7 +32,7 @@
 		"id": 3,
 		"comment": "Have you tried comments manager app?",
 		"time": 1565078737000,
-		"like": 0,
+		"like": 7,
 		"replies": [
 		  {
 			"reply": "Not yet!!",
@@ -49,6 +49,114 @@
 		  {
 			"reply": "Yes, I tried it once..",
 			"replyTime": 1565079401000
+		  }
+		]
+	  },
+	  {
+		"id": 4,
+		"comment": "Exam in progress..",
+		"time": 1565079431000,
+		"like": 0,
+		"replies": [
+		]
+	  },
+	  {
+		"id": 5,
+		"comment": "Need help?",
+		"time": 1565079531000,
+		"like": 11,
+		"replies": [
+		]
+	  },
+	  {
+		"id": 6,
+		"comment": "What is going on?",
+		"time": 1565079558000,
+		"like": 1,
+		"replies": [
+		]
+	  },
+	  {
+		"id": 7,
+		"comment": "Cloud",
+		"time": 1565079598000,
+		"like": 9,
+		"replies": [
+		]
+	  },
+	  {
+		"id": 8,
+		"comment": "Dev Ops",
+		"time": 1565079632000,
+		"like": 3,
+		"replies": [
+		  {
+			"reply": "Pipeline",
+			"replyTime": 1565079666000
+		  }
+		]
+	  },
+	  {
+		"id": 9,
+		"comment": "Chatbot session",
+		"time": 1565079769000,
+		"like": 0,
+		"replies": [
+		  {
+			"reply": "Node JS",
+			"replyTime": 1565079817000
+		  }
+		]
+	  },
+	  {
+		"id": 10,
+		"comment": "When is Q1 exam?",
+		"time": 1565079869000,
+		"like": 8,
+		"replies": [
+		  {
+			"reply": "Aug 6",
+			"replyTime": 1565079944000
+		  }
+		]
+	  },
+	  {
+		"id": 11,
+		"comment": "No session today",
+		"time": 1565079970000,
+		"like": 5,
+		"replies": [
+		  {
+			"reply": "Ok",
+			"replyTime": 1565080069000
+		  }
+		]
+	  },
+	  {
+		"id": 12,
+		"comment": "Please join Cloud session",
+		"time": 1565080112000,
+		"like": 0,
+		"replies": [
+		  {
+			"reply": "When ?",
+			"replyTime": 1565080187000
+		  },	
+		  {
+			"reply": "Dec 2019",
+			"replyTime": 1565080498000
+		  }
+		]
+	  },
+	  {
+		"id": 13,
+		"comment": "Welcome to NAGP program",
+		"time": 1565080356000,
+		"like": 4,
+		"replies": [
+		  {
+			"reply": "Angular Session",
+			"replyTime": 1565080441000
 		  }
 		]
 	  }
